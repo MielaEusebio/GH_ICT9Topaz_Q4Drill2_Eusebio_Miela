@@ -1,0 +1,24 @@
+            /* Color Palette: https://coolors.co/palette/335c67-fff3b0-e09f3e-9e2a2b-540b0e */
+            body {
+                background-color: #335c67;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                text-align: center;
+            }
+            form {
+                color: #540b0e;
+                border: 10px ridge #e09f3e;
+                background: #fff3b0;
+                margin: 25px;
+                padding:90px;
+                width: 500px;
+                text-align: center;
+                margin: 0 auto; 
+                    /*Reference: Daneesha. (2021, June 4). HTML How to center a Form. Stack Overflow. https://stackoverflow.com/questions/67832436/html-how-to-center-a-form#:~:text=4%20Answers&text=If%20you%20want%20to%20centre,0%20auto%20with%20a%20width.&text=if%20you%20want%20to%20centre%20inline,text%2Dalign:%20centre%20works. */
+
+            }
+
+            h1 {
+                padding: 50px;
+                color: #fff3b0;
+
+            }
